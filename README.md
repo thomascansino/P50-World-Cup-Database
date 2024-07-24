@@ -1,4 +1,4 @@
-Hey, 
+Hey,
 
 This is a project where I created a bash script to create a database about world cup matches in PostgreSQL.
 
